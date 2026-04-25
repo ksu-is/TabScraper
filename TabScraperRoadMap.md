@@ -5,7 +5,7 @@
 
 - [ ] Extract tab titles
 - [ ] Store tabs in a Python list
-- [ ] Print results to console
+- [x] Print results to console
 
 **Success Criteria:** User can run script and see all open tabs printed to console
 
@@ -16,7 +16,7 @@
 ## Version 2 - Q3 2026
 **Status:** Planned | **Effort:** Medium | **Owner:** [Assign]
 
-- [ ] Capture URLs + titles
+- [x] Capture URLs + titles
 - [ ] Save data to a file (CSV or JSON)
 - [ ] Improve error handling
 
@@ -46,8 +46,8 @@
 ## Future Features
 
 ### High Priority
-- [ ] Search tabs (Medium effort)
-- [ ] Tab organization/tagging (Medium effort)
+- [x] Search tabs (Medium effort)
+- [x] Tab organization/tagging (Medium effort)
 
 ### Medium Priority
 - [ ] Export data to multiple formats (Small effort)
